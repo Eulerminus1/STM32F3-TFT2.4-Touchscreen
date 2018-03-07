@@ -25,3 +25,4 @@ Problem: Once the user touches the menu button, then the user goes to the next m
 
 Another important note is that I cant provide other parts of the code due to copyright, I solely provide the parts that I have mentioned above 
 
+ER-TFTM024-3 Datasheet:https://www.icbanq.com/data/ICBShop/board/DFDSFSDA.pdf
