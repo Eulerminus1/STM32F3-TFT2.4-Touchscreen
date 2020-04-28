@@ -19,11 +19,10 @@ In the following request you will find codes for the STM32F3Discovery board & ER
 - Graphing Functions
 
 
-Note that: The menu controller function does not work properly, I still havent been able to fix the problem.
+Note that: The menu controller function does not work properly, I still have not been able to fix the problem.
 
 Problem: Once the user touches the menu button, then the user goes to the next menu but if the user presses on the same stop where the previous menu button was then the screen keeps refreshing.
 
-Another important note is that I cant provide other parts of the code due to copyright, I solely provide the parts that I have mentioned above 
+Another important note is that I cannot provide other parts of the code due to copyright, I solely provide the parts that I have mentioned above.
 
-ER-TFTM024-3 Datasheet:https://www.icbanq.com/data/ICBShop/board/DFDSFSDA.pdf
-STM32F3Discovery : http://www.st.com/content/ccc/resource/technical/document/user_manual/8a/56/97/63/8d/56/41/73/DM00063382.pdf/files/DM00063382.pdf/jcr:content/translations/en.DM00063382.pdf
+
